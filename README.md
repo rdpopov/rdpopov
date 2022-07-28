@@ -1,24 +1,9 @@
-### Hi there 👋
+### Hello there
+<!-- General Kenobi -->
 
-<!--
-**rdpopov/rdpopov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 - I’m currently learning 
   Rust and Lua(for neovim) \
   And any other language that catches my eye. \
-  Nim has been favourite so far. \ 
-  And lua the most nifty.
+  Nim has been favourite so far. And lua the most nifty.
   
- 
