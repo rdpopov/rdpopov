@@ -1,6 +1,7 @@
 ### Hello there
 <!-- General Kenobi -->
 
+- AOC 2022, Let's gooo! https://adventofcode.com/
 
 - I’m currently learning 
   Rust and Lua(for neovim) \
