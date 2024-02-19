@@ -1,11 +1,14 @@
 ### Hello there
 <!-- General Kenobi -->
 
-- AOC 2022, Let's gooo! https://adventofcode.com/
+### I experiment on different languages
+https://github.com/rdpopov/Advent-Of-Code
 
-- I’m currently learning 
-  Rust and Lua(for neovim) \
-  And any other language that catches my eye. \
-  Tried many, but most of them didn't stick.\
-  Nim has been favourite so far. And lua the most nifty.
-  
+### Currently developing actively
+https://github.com/rdpopov/nvim-sak
+https://github.com/rdpopov/weatherstation
+
+### Upcoming experiments
+- single cell organism simulation, based on cellular automata and neural networks.
+
+- brainfuck optimising/jit compiler(maybe)
