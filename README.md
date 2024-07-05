@@ -4,7 +4,7 @@
 ### I experiment on different languages
 https://github.com/rdpopov/Advent-Of-Code
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdpopov&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### Currently developing actively
 https://github.com/rdpopov/nvim-sak
